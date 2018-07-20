@@ -1,0 +1,31 @@
+Responsibility,Program Manager,Module Owner,Project Manager,Science Lead,Product manager,Product Owner,Tech Lead,Project coordinator
+Shepherd RFCs,YES,YES,NO,NO,NO,NO,YES,NO
+Define governance,YES,YES,NO,NO,NO,NO,NO,NO
+Define a program roadmap,YES,NO,NO,NO,NO,NO,MAYBE,NO
+Manage program schedule; set deadlines on delivery,YES,NO,NO,NO,NO,NO,NO,MAYBE
+Manage a portfolio of projects (program),YES,NO,NO,NO,NO,NO,NO,MAYBE
+Manage program budget,YES,NO,NO,NO,NO,NO,NO,NO
+Manage program scope,YES,NO,NO,NO,NO,NO,NO,NO
+Align program to Org. goals,YES,NO,NO,NO,NO,NO,NO,NO
+Task Estimation,MAYBE,NO,YES,MAYBE,NO,YES,YES,NO
+Manage project WIP,MAYBE,NO,YES,NO,NO,YES,NO,MAYBE
+Prioritize work items,MAYBE,NO,MAYBE,NO,YES,YES,NO,NO
+Manage a project,NO,NO,YES,NO,NO,MAYBE,NO,MAYBE
+Manage project schedule; set deadlines on delivery,NO,NO,MAYBE,YES,YES,MAYBE,NO,YES
+Manage project scope,NO,YES,MAYBE,MAYBE,YES,NO,NO,NO
+Manage project budget,NO,YES,MAYBE,NO,YES,NO,NO,NO
+Defining APIs,NO,YES,NO,NO,NO,NO,YES,NO
+Documentation,NO,YES,NO,NO,NO,NO,YES,NO
+External point person for onboarding,NO,YES,NO,NO,NO,NO,NO,NO
+Synthesize input from the comminity/grant,NO,YES,NO,YES,YES,NO,NO,MAYBE
+Synthesize UX studies into product decisions,NO,YES,NO,YES,YES,NO,NO,MAYBE
+Set product vision/direction,NO,YES,NO,MAYBE,YES,NO,MAYBE,NO
+External point person to other modules/teams,NO,YES,NO,MAYBE,YES,NO,NO,YES
+Define a product roadmap,NO,YES,YES,YES,YES,MAYBE,MAYBE,NO
+Define backlog items,NO,NO,YES,NO,NO,YES,MAYBE,NO
+Run Scrum process,NO,NO,MAYBE,NO,NO,YES,NO,NO
+Choose tech stack,NO,NO,NO,NO,NO,NO,YES,NO
+Define what the product looks like,NO,MAYBE,NO,YES,YES,NO,NO,NO
+Set technical roadmap,NO,NO,NO,NO,NO,MAYBE,YES,NO
+Implement and maintain product,NO,NO,NO,NO,NO,NO,YES,NO
+Define tech debt,NO,NO,NO,NO,NO,NO,YES,NO
